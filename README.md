@@ -1,13 +1,21 @@
-Notebook setup: 
+## Notebook setup:
 
+```bash 
 cd py-final
+
 python3.11 -m venv krag-env
+
 source krag-env/bin/activate
+
 pip install -r requirements.txt
+
 jupyter notebook
+```
 visit url to run 
 
 ----------------------------------------------------------------------------------------------------------------------------
+## Project Description: 
+
 This project implements a hybrid retrieval-augmented generation (RAG) system enhanced with a domain-specific knowledge graph. 
 The workflow includes training a custom Named Entity Recognition (NER) model, extracting semantic relationships to build a knowledge graph, and integrating graph triples into an LLM pipeline for improved question answering.
 

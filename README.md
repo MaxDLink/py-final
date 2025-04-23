@@ -9,6 +9,9 @@ source krag-env/bin/activate
 
 pip install -r requirements.txt
 
+python -m ipykernel install --user --name=krag-env --display-name "Python (krag-env)"
+
+
 jupyter notebook
 ```
 visit url to run 

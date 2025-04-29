@@ -1,6 +1,6 @@
 ## Formula's to Measure Recall (number of relevant items correct) 
 
-
+(rag)[./retrieval-augmented-generation.png]
 
 
 ## Notebook setup:

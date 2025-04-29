@@ -3,7 +3,7 @@
 ![rag](./retrieval-augmented-generation.png)
 
 
-![krag](./knowledge-retrieval-augmented-generation.png)
+![krag](./Knowledge-Retrieval-Augmented-Generation.png)
 
 ## Notebook setup:
 

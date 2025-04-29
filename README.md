@@ -20,7 +20,7 @@ visit url to run
 ## Project Description: 
 
 This project implements a hybrid retrieval-augmented generation (RAG) system enhanced with a domain-specific knowledge graph. 
-The workflow includes training a custom Named Entity Recognition (NER) model, extracting semantic relationships to build a knowledge graph, and integrating graph triples into an LLM pipeline for improved question answering.
+The workflow includes training a custom relationship extraction model, extracting semantic relationships to build a knowledge graph, and integrating graph triples into an LLM pipeline for improved question answering.
 
 Using the global news dataset to gather 100-200 news article documents for KRAG 
 

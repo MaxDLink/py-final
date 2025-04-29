@@ -1,3 +1,8 @@
+## Formula's to Measure Recall (number of relevant items correct) 
+
+
+
+
 ## Notebook setup:
 
 ```bash 
